@@ -2,18 +2,18 @@
 
 const config = {
 
-    botName:    "𝐂𝐇𝐄𝐎𝐍 𝐁𝐎𝐓",
+    botName:    "𝕸𝖚𝖘𝖙𝖆𝖋𝖆 𝖇𝖔𝖙 🐍",
     botTag:     "@CHEON",
     botVersion: "2.0.0",
-    botDev:     "𝐋𝐎𝐘𝐃",
-    devNumber:  "4917672339436",
+    botDev:     "𝕿𝖘𝖘-𝕸𝖚𝖘𝖙𝖆𝖋𝖆",
+    devNumber:  "201557346292",
 
     sessions:   "sessions",
     botNumber:  "", // رقم البوت هنا ضروري 
 
 
     owner: [
-        "4917672339436", //رقم المطور
+        "201557346292", //رقم المطور
     ],
 
     ownerLid: [],
